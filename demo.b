@@ -3,4 +3,4 @@
 ++++. print 102 ('f')
 ----. print 98 ('b')
 [-] zero cell 0
-++++++++++. increase to 20 ('\n') and print
+++++++++++. increase to 10 ('\n') and print
